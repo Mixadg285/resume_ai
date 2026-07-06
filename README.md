@@ -2,12 +2,17 @@
 This web application enables user to validate their resume using AI by give scores and some feedbacks
 
 # React + Vite
+ 
+1. Start the app (cd resume)
 
-To start, run 
+   ```bash
+   npx expo start on 
+   ```
+2. run the backend (cd backend)
 
-
-
-
+   ```bash
+   node server.js on 
+   ```
 
 
 # Result Page
