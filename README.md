@@ -6,12 +6,12 @@ This web application enables user to validate their resume using AI by give scor
 1. Start the app (cd resume)
 
    ```bash
-   npx expo start on 
+   npx expo start 
    ```
 2. run the backend (cd backend)
 
    ```bash
-   node server.js on 
+   node server.js 
    ```
 
 
